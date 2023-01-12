@@ -6,12 +6,13 @@ export const Card = styled.div`
     background: ${props => props.theme.colors.white};
     box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
     border-radius: 20px;
+
    `
 ;
 export const QrImage = styled.img`
     max-width: 100%;
     padding: 16px;
-    border-radius: 10px;
+    border-radius: 30px;
 `;
 export const Heading = styled.h1`
 
