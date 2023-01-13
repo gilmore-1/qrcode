@@ -1,2 +1,3 @@
 # qrcode
-qr code with react styled components
+
+demo https://styledqrcode.netlify.app/
